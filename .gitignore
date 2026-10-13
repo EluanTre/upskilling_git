@@ -1,0 +1,6 @@
+*.csv
+*.sqlite
+*.tmp
+*.logs
+.venv/
+__pycache__/
